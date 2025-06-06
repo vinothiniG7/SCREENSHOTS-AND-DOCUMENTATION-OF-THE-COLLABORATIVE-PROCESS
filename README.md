@@ -80,9 +80,11 @@ This README aims to be a living document. Please suggest improvements or clarifi
 
 #OUTPUT
 
-<!-- Uploading "Screenshot 2025-06-05 074356.png"... -->
-<!-- Uploading "Screenshot 2025-06-05 074430.png"... -->
-<!-- Uploading "Screenshot 2025-06-05 074537.png"... -->
-<!-- Uploading "Screenshot 2025-06-05 074645.png"... -->
-<!-- Uploading "Screenshot 2025-06-05 082249.png"... -->
+![Image](https://github.com/user-attachments/assets/7d41700f-32af-4e6e-9780-508d707a80f4)
+![Image](https://github.com/user-attachments/assets/d7c4beb5-32eb-4763-aa40-96fd784d0fe7)
+![Image](https://github.com/user-attachments/assets/0a4e9bbd-9bc4-4c30-b1fd-2da60bbb28e7)
+![Image](https://github.com/user-attachments/assets/aa106f37-0d73-4356-aa4b-9b7d8004741b)
+![Image](https://github.com/user-attachments/assets/dc68b604-d03b-4dfe-9b19-cc223603ee2f)
+
+
 
